@@ -1,3 +1,3 @@
-# Head out to Page 2 by following the link below:
+# Framer Motion Practice:
 
 https://xiongguir1.netlify.app/page-2/
